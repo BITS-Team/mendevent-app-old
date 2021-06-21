@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "30332021432",
+    "firebase_url": "https://mend-event.firebaseio.com",
+    "project_id": "mend-event",
+    "storage_bucket": "mend-event.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30332021432:android:f13eba21b55bb87679224d",
+        "android_client_info": {
+          "package_name": "mn.mend.assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30332021432-80ikk77bv31v5srckk93t3dm9a0ugq5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oGC4mYWl4FbtXSP1e79pVpdocAaObiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30332021432-80ikk77bv31v5srckk93t3dm9a0ugq5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30332021432-4vkmhn2ib12jgdeqfpo2bnq3dr5iv7i4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mn.mend.assistant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

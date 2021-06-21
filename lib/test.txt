@@ -1,0 +1,20 @@
+url_launcher: ^5.1.2
+
+
+'armeabi-v7a', 'arm64-v8a'
+
+
+
+buildTypes {
+        release {
+            signingConfig signingConfigs.release
+
+            minifyEnabled true
+            useProguard true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+            ndk {
+                abiFilters 'arm64-v8a'
+            }
+        }
+    }
